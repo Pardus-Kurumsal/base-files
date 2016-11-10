@@ -1,3 +1,13 @@
+base-files (9.6pardus2) pardus; urgency=medium
+
+  * Update files under etc
+  * Add pardus origin
+  * Update motd file
+  * Update rules
+  * Modify dot.bashrc file
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Thu, 10 Nov 2016 14:04:43 +0300
+
 base-files (9.6pardus1) pardus; urgency=medium
 
   * Add .drone.yml
