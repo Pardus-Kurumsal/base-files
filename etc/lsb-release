@@ -1,0 +1,4 @@
+DISTRIB_ID=Pardus
+DISTRIB_RELEASE=pardus-devel
+DISTRIB_CODENAME=pardus-devel
+DISTRIB_DESCRIPTION="Pardus #OSNAME# Devel"
