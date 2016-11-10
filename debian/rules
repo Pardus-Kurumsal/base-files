@@ -8,7 +8,7 @@ ifeq ($(DEB_HOST_GNU_SYSTEM),gnu)
   OSNAME=GNU/Hurd
 endif
 
-VENDORFILE = debian
+VENDORFILE = pardus
 
 %:
 	dh $@
@@ -54,3 +54,4 @@ endif
 	sed -e "s&#OSNAME#&$(OSNAME)&g" etc/os-release > $(DESTDIR)/etc/os-release
 	mv $(DESTDIR)/etc/os-release $(DESTDIR)/usr/lib/os-release
 	ln -s ../usr/lib/os-release $(DESTDIR)/etc/os-release
+	sed -e "s&#OSNAME#&$(OSNAME)&g" etc/lsb-release > $(DESTDIR)/etc/lsb-release
