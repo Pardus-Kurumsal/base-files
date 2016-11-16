@@ -1,3 +1,9 @@
+base-files (9.6pardus3) pardus; urgency=medium
+
+  * Add sbin to PATH of non-root users
+
+ -- Cihangir Akturk <cihangir@pardus.org.tr>  Wed, 16 Nov 2016 14:10:55 +0000
+
 base-files (9.6pardus2) pardus; urgency=medium
 
   * Update files under etc
