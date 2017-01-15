@@ -1,5 +1,7 @@
-PRETTY_NAME="Debian #OSNAME# stretch/sid"
+PRETTY_NAME="Debian #OSNAME# 9 (stretch)"
 NAME="Debian #OSNAME#"
+VERSION_ID="9"
+VERSION="9 (stretch)"
 ID=debian
 HOME_URL="https://www.debian.org/"
 SUPPORT_URL="https://www.debian.org/support"

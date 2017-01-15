@@ -1,3 +1,27 @@
+base-files (9.8) unstable; urgency=medium
+
+  * Release candidate for stretch as stable:
+  - Use "9" as version in /etc/issue and /etc/issue.net.
+    (never expected to change after stretch is released)
+  - Use 9.0 as version in /etc/debian_version.
+    (expected to change at every point release)
+  - Change PRETTY_NAME in /usr/lib/os-release, adding 9 as version number
+    and "(stretch)" as codename. Add also VERSION_ID and VERSION.
+    (never expected to change)
+  - Update README (stretch -> buster).
+  * Standards-Version: 3.9.8 (no special changes for this).
+
+ -- Santiago Vila <sanvila@debian.org>  Sun, 15 Jan 2017 23:00:02 +0100
+
+base-files (9.7) unstable; urgency=medium
+
+  * Do not care about /etc/nsswitch.conf anymore, as the file has been
+    moved to libc-bin. Closes: #827095.
+  [ Guillem Jover ]
+  * Do not use gzip compression anymore to build .deb and use the default.
+
+ -- Santiago Vila <sanvila@debian.org>  Sun, 27 Nov 2016 19:29:38 +0100
+
 base-files (9.6) unstable; urgency=low
 
   * Add lintian override for /etc/os-release.
