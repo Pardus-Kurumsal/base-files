@@ -15,7 +15,6 @@ VENDORFILE = pardus
 
 override_dh_auto_build:
 	sh debian/check-md5sum-etc profile
-	sh debian/check-md5sum-etc nsswitch.conf
 	sed -e "s&#OSNAME#&$(OSNAME)&g" debian/copyright.in > debian/copyright
 	sed -e "s/#VENDORFILE#/$(VENDORFILE)/g" debian/postinst.in > debian/postinst
 
@@ -35,9 +34,6 @@ override_dh_fixperms:
 	cd debian/base-files && chmod 1777 `cat ../1777-dirs`
 	cd debian/base-files && chmod 2775 `cat ../2775-dirs`
 	cd debian/base-files && chmod 700 root
-
-override_dh_builddeb:
-	dh_builddeb -- -Zgzip
 
 install:
 	install -p -m 644 etc/*      $(DESTDIR)/etc
