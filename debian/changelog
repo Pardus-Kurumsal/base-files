@@ -1,3 +1,21 @@
+base-files (9.8pardus1) pardus; urgency=medium
+
+  [ Yunusemre Şentürk ]
+  * Add .drone.yml
+  * Update files under etc
+  * Add pardus origin
+  * Update motd file
+  * Update rules
+  * Modify dot.bashrc file
+
+  [ Cihangir Akturk ]
+  * Add sbin to PATH of non-root users
+
+  [ Yunusemre Şentürk ]
+  * Apply changes for pardus into imported Debian version 9.8
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 21 Feb 2017 11:47:33 +0300
+
 base-files (9.8) unstable; urgency=medium
 
   * Release candidate for stretch as stable:
