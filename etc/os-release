@@ -1,8 +1,8 @@
-PRETTY_NAME="Pardus #OSNAME# Devel"
+PRETTY_NAME="Pardus #OSNAME# Onyedi"
 NAME="Pardus #OSNAME#"
 ID=pardus
 ID_LIKE=debian
 ANSI_COLOR="1;31"
 HOME_URL="http://www.pardus.org.tr/"
 SUPPORT_URL="http://www.pardus.org.tr/forum"
-BUG_REPORT_URL="http://bugs.pardus.org.tr/"
+BUG_REPORT_URL="http://hata.pardus.org.tr/"
