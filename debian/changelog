@@ -1,3 +1,12 @@
+base-files (9.9) unstable; urgency=medium
+
+  * Add MPL-1.1 and MPL-2.0 to common-licenses. Closes: #849835.
+    License texts taken from https://www.mozilla.org/en-US/MPL/.
+  * Add a default /etc/update-motd.d/10-uname script to
+    recover the traditional motd behaviour. Closes: #859124.
+
+ -- Santiago Vila <sanvila@debian.org>  Tue, 04 Apr 2017 18:00:30 +0200
+ 
 base-files (9.8pardus2) onyedi; urgency=medium
 
   * Update changelog for 9.8pardus1 release

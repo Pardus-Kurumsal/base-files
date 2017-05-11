@@ -1,5 +1,7 @@
-PRETTY_NAME="Pardus #OSNAME# Onyedi"
+PRETTY_NAME="Pardus #OSNAME# 17 (onyedi)"
 NAME="Pardus #OSNAME#"
+VERSION_ID="17"
+VERSION="17 (onyedi)"
 ID=pardus
 ID_LIKE=debian
 ANSI_COLOR="1;31"
