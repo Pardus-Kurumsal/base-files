@@ -1,3 +1,11 @@
+base-files (9.9pardus1) onyedi; urgency=medium
+
+  [ Yunusemre Şentürk ]
+  * Apply changes for pardus into imported Debian version 9.9
+  * Update changelog for 9.9pardus1 release
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Thu, 11 May 2017 11:09:40 +0300
+
 base-files (9.9) unstable; urgency=medium
 
   * Add MPL-1.1 and MPL-2.0 to common-licenses. Closes: #849835.
