@@ -1,3 +1,9 @@
+base-files (9.9pardus3) onyedi; urgency=medium
+
+  * Update release files
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 22 Aug 2017 16:45:37 +0300
+
 base-files (9.9pardus2) onyedi; urgency=medium
 
   * Change uname script under motd
