@@ -1,3 +1,9 @@
+base-files (9.9+deb9u1) stable; urgency=low
+
+  * Change /etc/debian_version to 9.1, for Debian 9.1 point release.
+
+ -- Santiago Vila <sanvila@debian.org>  Thu, 13 Jul 2017 15:04:04 +0200
+
 base-files (9.9pardus3) onyedi; urgency=medium
 
   * Update release files
