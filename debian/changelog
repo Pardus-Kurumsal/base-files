@@ -1,3 +1,10 @@
+base-files (9.9+deb9u1pardus1) onyedi; urgency=medium
+
+  [ Yunusemre Şentürk ]
+  * Change /etc/debian_version to 17.1, for Pardus 17.1 point release.
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 15 Sep 2017 14:09:38 +0300
+
 base-files (9.9+deb9u1) stable; urgency=low
 
   * Change /etc/debian_version to 9.1, for Debian 9.1 point release.
