@@ -1,3 +1,9 @@
+base-files (9.10pardus1) onyedi; urgency=medium
+
+  * Update release info files
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 08 Nov 2017 11:54:33 +0300
+
 base-files (9.9+deb9u1pardus1) onyedi; urgency=medium
 
   [ Yunusemre Şentürk ]
