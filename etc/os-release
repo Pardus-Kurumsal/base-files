@@ -1,10 +1,10 @@
 PRETTY_NAME="Pardus #OSNAME# 17 (onyedi)"
 NAME="Pardus #OSNAME#"
 VERSION_ID="17"
-VERSION="17.1 (onyedi)"
+VERSION="17.2 (onyedi)"
 ID=pardus
 ID_LIKE=debian
 ANSI_COLOR="1;31"
 HOME_URL="http://www.pardus.org.tr/"
-SUPPORT_URL="http://www.pardus.org.tr/forum"
+SUPPORT_URL="http://forum.pardus.org.tr/"
 BUG_REPORT_URL="http://hata.pardus.org.tr/"
