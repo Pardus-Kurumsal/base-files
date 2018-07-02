@@ -1,3 +1,13 @@
+base-files (9.10pardus3) onyedi; urgency=medium
+
+  [ Cihangir Akturk ]
+  * ci: change artifact location to /packages
+
+  [ Yunusemre Şentürk ]
+  * Update release info files for 17.3 point release
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Mon, 02 Jul 2018 15:02:23 +0300
+
 base-files (9.10pardus2) onyedi; urgency=medium
 
   * Update release info files for 17.2 point release
