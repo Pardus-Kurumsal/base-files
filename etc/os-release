@@ -7,4 +7,4 @@ ID_LIKE=debian
 ANSI_COLOR="1;31"
 HOME_URL="http://www.pardus.org.tr/"
 SUPPORT_URL="http://forum.pardus.org.tr/"
-BUG_REPORT_URL="http://hata.pardus.org.tr/"
+BUG_REPORT_URL="http://talep.pardus.org.tr/"
