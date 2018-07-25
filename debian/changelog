@@ -1,3 +1,9 @@
+base-files (9.10pardus4) onyedi; urgency=medium
+
+  * Change bug report URL to our new talep.pardus.org.tr
+
+ -- Cihangir Akturk <cihangir@pardus.org.tr>  Wed, 25 Jul 2018 09:20:35 +0300
+
 base-files (9.10pardus3) onyedi; urgency=medium
 
   [ Cihangir Akturk ]
