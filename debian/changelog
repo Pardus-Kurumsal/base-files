@@ -1,3 +1,9 @@
+base-files (9.10pardus5) onyedi; urgency=medium
+
+  * Update release info files for 17.4 point release
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 02 Nov 2018 09:22:19 +0300
+
 base-files (9.10pardus4) onyedi; urgency=medium
 
   * Change bug report URL to our new talep.pardus.org.tr
