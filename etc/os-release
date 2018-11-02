@@ -1,7 +1,7 @@
 PRETTY_NAME="Pardus #OSNAME# 17 (onyedi)"
 NAME="Pardus #OSNAME#"
 VERSION_ID="17"
-VERSION="17.3 (onyedi)"
+VERSION="17.4 (onyedi)"
 ID=pardus
 ID_LIKE=debian
 ANSI_COLOR="1;31"
